@@ -1,0 +1,11 @@
+{
+  "renderer": {
+    "name": "PrismGL 3.0",
+    "version": "3.0.0",
+    "library": "libprismgl.so",
+    "supported_versions": ["1.16.5", "1.18.2", "1.19.4", "1.20.1"],
+    "features": ["shader_cache", "adaptive_rendering", "sodium_compat"],
+    "gl_version": "3.2",
+    "gles_version": "3.2"
+  }
+}
