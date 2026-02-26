@@ -1,5 +1,6 @@
 #include "utils/logger.h"
-
+#include <cstdint>      // FIX: для std::uint8_t
+#include <iterator>     // FIX: для std::istreambuf_iterator
 #include <fstream>
 #include <iterator>
 #include <string>
